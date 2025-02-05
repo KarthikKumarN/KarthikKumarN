@@ -28,7 +28,7 @@
 ## 🤝 Let's connect
 <div>
 <ul>
-<li><a href="https://www.linkedin.com/in/karthik-n-fullstack-engineer/" target="_blank">LinkedIn 🧑🏻‍💻</a></li>
+<li><a href="https://www.linkedin.com/in/karthik-kumar-n/" target="_blank">LinkedIn 🧑🏻‍💻</a></li>
 <li><a href="https://x.com/karthikn503" target="_blank">X 🐦</a></li>
 </ul>
 </div>
