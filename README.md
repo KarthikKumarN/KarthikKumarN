@@ -3,12 +3,12 @@
 ## ⛷️ Skills and tecnologies
 <div>
 <ul>
-<li>ReactJS / VueJs 🦾</li>
 <li>NodeJS / Express / NestJs 🎬</li>
-<li>MongoDB / MySQL 📦</li>
-<li>Blockchain / Solidity 🔗</li>
 <li>TypeScript / JavaScript 💻</li>
+<li>Blockchain / Solidity 🔗</li>
 <li>Smart Contract Development and Integration 💰</li>
+<li>ReactJS / VueJs 🦾</li>
+<li>MongoDB / MySQL 📦</li>
 <li>PHP / Laravel / CakePHP 🐘</li>
 <li>Team Managment 💁🏻</li>
 </ul>
