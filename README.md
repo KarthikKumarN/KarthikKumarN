@@ -27,11 +27,11 @@
 
 # 📈 Stats:
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=KarthikKumarN&theme=neon&hide_border=true&show_icons=true&locale=en" alt="KarthikKumarN" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=KarthikKumarN&theme=dracula&hide_border=true&show_icons=true&locale=en" alt="KarthikKumarN" /></p>
 
-<p><img width="50%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikKumarN&theme=neon&hide_border=true&show_icons=true&locale=en&layout=compact" alt="KarthikKumarN" /></p>
+<p><img width="50%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikKumarN&theme=dracula&hide_border=true&show_icons=true&locale=en&layout=compact" alt="KarthikKumarN" /></p>
 
-<p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikKumarN&theme=neon&hide_border=true" alt="KarthikKumarN" /></p>
+<p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=KarthikKumarN&theme=dracula&hide_border=true" alt="KarthikKumarN" /></p>
 
 
 ## 🤝 Let's connect
