@@ -27,7 +27,7 @@
 
 # 📈 Stats:
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=KarthikKumarN&theme=dracula&hide_border=true&show_icons=true&locale=en" alt="KarthikKumarN" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=KarthikKumarN&theme=dracula&hide_border=true&show_icons=true&locale=en&hide=stars" alt="KarthikKumarN" /></p>
 
 <p><img width="50%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthikKumarN&theme=dracula&hide_border=true&show_icons=true&locale=en&layout=compact" alt="KarthikKumarN" /></p>
 
